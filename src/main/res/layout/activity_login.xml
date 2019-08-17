@@ -66,6 +66,7 @@
         android:layout_marginStart="7dp"
         android:layout_marginTop="539dp"
         android:layout_marginEnd="312dp"
+        android:onClick="fun2"
         android:text="New User"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -76,10 +77,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="231dp"
-        android:layout_marginTop="532dp"
+        android:layout_marginTop="536dp"
         android:layout_marginEnd="16dp"
+        android:onClick="fun3"
         android:text="Forgot Password?"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
